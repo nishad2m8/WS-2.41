@@ -36,6 +36,6 @@ Project/
 
 | No.  | Thumb | Youtube URL |
 | ------|-----|----------|
-| 1 | ![alt text](<00-Assets/01-Home Automation Dashboard UI on Waveshare 2.41" AMOLED MQTT + Node-RED LVGL.jpg>)  | |
+| 1 | ![alt text](<00-Assets/01-Home Automation Dashboard UI on Waveshare 2.41" AMOLED MQTT + Node-RED LVGL.jpg>)  | https://youtu.be/YNYFkZsoae4 |
 
 <!-- | No | Thumb  | URL |  -->
